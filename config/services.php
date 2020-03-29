@@ -36,12 +36,12 @@ return [
     ],
 
     'firebase' => [
-        'api_key' => '',
-        'auth_domain' => '',
-        'database_url' => '',
-        'secret' => '',
-        'storage_bucket' => '',
-        'project_id' => '',
-        'messaging_sender_id' => ''
+        'api_key' => 'AIzaSyD8de15fK5hXuM8ZMMoniO0igCbJsKntL0',
+        'auth_domain' => 'ecobank-32710.firebaseapp.com',
+        'database_url' => 'https://ecobank-32710.firebaseio.com',
+        'secret' => 'zCE0Q1PAIOsTJpJ51DB6ZIoSdFLwiQOmtEs8dIGj',
+        'storage_bucket' => 'ecobank-32710.appspot.com',
+        'project_id' => 'ecobank-32710',
+        'messaging_sender_id' => '38677210753'
     ]
 ];
